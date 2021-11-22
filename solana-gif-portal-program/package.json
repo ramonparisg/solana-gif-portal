@@ -1,7 +1,7 @@
 {
     "scripts": {
         "build": "anchor build",
-        "test": "anchor test",
+        "test": "anchor test"
     },
     "dependencies": {
         "@project-serum/anchor": "^0.18.2"
