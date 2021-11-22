@@ -13,7 +13,7 @@
   padding: 0 30px 0 30px;
 }
 
-.authed-container {
+.authedContainer {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -39,7 +39,7 @@
   -webkit-text-fill-color: transparent;
 }
 
-.cta-button {
+.ctaButton {
   height: 45px;
   border: 0;
   width: auto;
@@ -52,13 +52,13 @@
   color: white;
 }
 
-.connect-wallet-button {
+.connectWalletButton {
   background: -webkit-linear-gradient(left, #60c657, #35aee2);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
 
-.submit-gif-button {
+.submitGifButton {
   background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
@@ -87,7 +87,7 @@
   font-weight: bold;
 }
 
-.gif-grid {
+.gifGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   grid-gap: 1.5rem;
@@ -96,7 +96,7 @@
   padding: 0;
 }
 
-.gif-grid .gif-item {
+.gifGrid .gifItem {
   display: flex;
   flex-direction: column;
   position: relative;
@@ -104,14 +104,14 @@
   align-self: center;
 }
 
-.gif-item img {
+.gifItem img {
   width: 100%;
   height: 300px;
   border-radius: 10px;
   object-fit: cover;
 }
 
-.connected-container input[type='text'] {
+.connectedContainer input[type='text'] {
   display: inline-block;
   color: white;
   padding: 10px;
@@ -125,6 +125,6 @@
   margin: 50px auto;
 }
 
-.connected-container button {
+.connectedContainer button {
   height: 50px;
 }
