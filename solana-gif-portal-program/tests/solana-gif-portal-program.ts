@@ -30,14 +30,17 @@ const main = async () => {
   console.log("👀 GIF Count", account.totalGifs.toString());
 
   // Call add_gif!
-  await program.rpc.addGif({
+  await program.rpc.addGif("gif_url", {
     accounts: {
       baseAccount: baseAccount.publicKey,
+      user: provider.wallet.publicKey,
     },
   });
 
   // Get the account again to see what changed.
   account = await program.account.baseAccount.fetch(baseAccount.publicKey);
+  const gifList = account.gifList;
+  console.log("gifList", JSON.stringify(gifList));
   console.log("👀 GIF Count", account.totalGifs.toString());
 };
 
