@@ -1,6 +1,6 @@
 # 🚀 Putting the office gifs on Solana Blockchain
 
-<img height="300" src="assets/solana.gif" width="500"/>
+<img height="500" src="assets/solana.gif" width="800"/>
 
 ---
 
