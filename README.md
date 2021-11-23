@@ -1,4 +1,4 @@
-# 🚀 Putting the office gifs on Solana Blockchain 
+# 🚀 Putting the office gifs in Solana Blockchain 
 
 ![](assets/solana.gif)
 
