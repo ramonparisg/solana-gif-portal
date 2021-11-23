@@ -1,7 +1,6 @@
 # 🚀 Putting the office gifs on Solana Blockchain 
 
-![](assets/Solana_web_app.gif)
-
+![](assets/solana.gif)
 
 ---
 
