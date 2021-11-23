@@ -1,5 +1,8 @@
 # 🚀 Putting the office gifs on Solana Blockchain 
 
+![](assets/Solana_web_app.gif)
+
+
 ---
 
 ### Techs used:
@@ -8,5 +11,7 @@
 3. 👻 Phantom wallet for interacting with Solana blockchain
 
 Please find the demo here: https://solana-gif-portal-sepia.vercel.app/
+
+
 
 🦄 Thanks to [@_buildspace](https://twitter.com/_buildspace) 
